@@ -1,4 +1,4 @@
--- Dim date setup
+-- Dim date setup 07-08-2025
 drop table dim_date;
 create table dim_date(	
 skey                     number(10) primary key, 
