@@ -1,3 +1,4 @@
+-- Dim date setup
 drop table dim_date;
 create table dim_date(	
 skey                     number(10) primary key, 
@@ -39,4 +40,5 @@ rec_up_dt                date);
 
 alter table dim_date add constraint dim_date_ukey unique (the_date);
 drop sequence dim_date_seq;
+
 create sequence dim_date_seq start with 1 increment by 1;
