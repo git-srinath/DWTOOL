@@ -1,0 +1,16 @@
+# Form Fields
+reference,description,mapperId,targetSchema,tableName,tableType,freqCode,freqTime,sourceSystem,logic
+,,MAP_BEE2017F,,,,,,,
+
+# Table Fields
+fieldName,dataType,primaryKey,pkSeq,nulls,srcSchema,srcTable,srcField
+,,false,,false,,,
+,,false,,false,,,
+,,false,,false,,,
+,,false,,false,,,
+,,false,,false,,,
+,,false,,false,,,
+,,false,,false,,,
+,,false,,false,,,
+,,false,,false,,,
+,,false,,false,,,

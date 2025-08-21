@@ -1,0 +1,7 @@
+# Form Fields
+reference,description,mapperId,targetSchema,tableName,tableType,freqCode,sourceSystem,logicVerified
+test_ref,test_desc,,test_schema,test_table,NRM,WK,test_system,Y
+
+# Table Fields
+mapdtlid,mapref,fieldName,dataType,primaryKey,pkSeq,fieldDesc,nulls,logic,keyColumn,valColumn,mapCombineCode,execSequence,scdType,logicVerified
+,test_ref,test_field,VARCHAR2,false,,,false,,,,,,,False

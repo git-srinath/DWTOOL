@@ -1,0 +1,16 @@
+# Form Fields
+reference,description,mapperId,targetSchema,tableName,tableType,freqCode,freqTime,sourceSystem,logic
+rfdf,dfd,MAP_C93C2D06,dfdf,dfdf,df,dfdf,df,df,select * from table;
+
+# Table Fields
+fieldName,dataType,primaryKey,pkSeq,nulls,srcSchema,srcTable,srcField
+df,df,false,dfd,false,f,f,ff
+df,df,true,fdf,false,f,f,f
+fd,df,true,dfd,true,f,f,f
+df,df,false,fdf,false,df,f,f
+df,fddf,true,dfdf,false,df,f,f
+df,fdf,false,,false,,,
+,,false,,false,,,
+,,false,,false,,,
+,,false,,false,,,
+,,false,,false,,,
